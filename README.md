@@ -1,2 +1,2 @@
-# cpp-parstl-lab
-Lab on C++ parallel STL
+# cpp-template-project
+C++ project to be used as tempalte
