@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 4.0)
-project(cppreuse LANGUAGES CXX)
+project(parstl LANGUAGES CXX)
 
 # Enable Fetch content
 include(FetchContent)
